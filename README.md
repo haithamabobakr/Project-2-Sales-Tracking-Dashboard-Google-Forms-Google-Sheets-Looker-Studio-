@@ -67,7 +67,7 @@ The dashboard is connected to Google Sheets with **data freshness set to every 1
 ## 📸 Screenshot
 Add your dashboard screenshot here:
 ```
-![Sales Dashboard Screenshot](Sales - Looker Studio.jpg)
+![Sales Looker Studio Dashboard](Sales%20-%20Looker%20Studio.jpg)
 ```
 
 ---
