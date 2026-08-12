@@ -64,12 +64,6 @@ The dashboard is connected to Google Sheets with **data freshness set to every 1
 - Theme and color palette can be changed via **Theme and Layout** in Looker Studio's editor.
 - The company logo can be added via **Insert → Image** in the report editor.
 
-## 📸 Screenshot
-Add your dashboard screenshot here:
-```
-![Sales Looker Studio Dashboard](Sales%20-%20Looker%20Studio.jpg)
-```
-
 ---
 
 ## 👨‍💻 Author
