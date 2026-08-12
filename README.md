@@ -28,7 +28,7 @@ Google Form  →  Google Sheet (auto formula)  →  Looker Studio Dashboard (aut
 | Products | Dropdown | Required |
 | Quantity | Short answer | Number > 0 |
 | Unit Price | Short answer | Number > 0 |
-| Place | Short answer | — |
+| Place | Dropdown | Required |
 | Notes | Short answer (optional) | — |
 
 **Response validation:** Quantity and Unit Price fields use Google Forms' number validation (`Greater than 0`) with a custom error message: *"Please enter a number greater than 0."* This blocks negative or zero values.
